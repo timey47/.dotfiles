@@ -1,0 +1,6 @@
+color syntax
+set ruler
+set autoindent
+set number
+set ignorecase
+color elflord
